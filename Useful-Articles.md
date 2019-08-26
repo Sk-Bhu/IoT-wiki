@@ -13,10 +13,12 @@
 * XGBoost regressor: [machine-learning-project-predicting-boston-house-prices-with-regression](https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d)
 * Anomaly Detection: [time-series-of-price-anomaly-detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46)
 * XGBoostregressor: [modeling-price-with-regularized-linear-model-xgboost](https://towardsdatascience.com/modeling-price-with-regularized-linear-model-xgboost-55e59eae4482)
-
+* Recommandation Systems: [the-remarkable-world-of-recommender-systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
+[recommendation-systems-in-the-real-world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
 # Feature engineering etc.
 * Tips for feature engineering:
 [advanced-feature-engineering-and-preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
+* Dimensionality reduction + cluster plots: [visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 
 # Mindset:
 

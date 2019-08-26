@@ -11,9 +11,14 @@
 * PCA:
 [principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset](https://medium.com/@dmitriy.kavyazin/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2)
 * XGBoost regressor: [machine-learning-project-predicting-boston-house-prices-with-regression](https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d)
+* Anomaly Detection: [time-series-of-price-anomaly-detection](https://towardsdatascience.com/time-series-of-price-anomaly-detection-13586cd5ff46)
+* XGBoostregressor: [modeling-price-with-regularized-linear-model-xgboost](https://towardsdatascience.com/modeling-price-with-regularized-linear-model-xgboost-55e59eae4482)
 
 # Feature engineering etc.
 * Tips for feature engineering:
 [advanced-feature-engineering-and-preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 
 # Mindset:
+
+
+# Data sources:

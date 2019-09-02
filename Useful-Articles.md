@@ -17,6 +17,7 @@
   * [the-remarkable-world-of-recommender-systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
   * [recommendation-systems-in-the-real-world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
   * [how-to-create-a-production-ready-recommender-system](https://towardsdatascience.com/how-to-create-a-production-ready-recommender-system-3c932752f8ea)
+* NLP: [nlp-for-beginners-cleaning-preprocessing-text-data] (https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f)
 
 
 # Feature engineering etc.

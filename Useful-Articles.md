@@ -6,8 +6,7 @@
 * More plotly: [interactive-plots-with-plotly-and-cufflinks-on-pandas-dataframes](https://medium.com/@ozan/interactive-plots-with-plotly-and-cufflinks-on-pandas-dataframes-af6f86f62d94)
 * landmaps: 
   * [analysis-of-car-accidents-in-barcelona-using-pandas-matplotlib-and-folium](https://towardsdatascience.com/analysis-of-car-accidents-in-barcelona-using-pandas-matplotlib-and-folium-73384240106b)
-  * [rocket-data-science]
-(https://link.medium.com/WzjE7spiGZ)
+  * [rocket-data-science](https://link.medium.com/WzjE7spiGZ)
 # Models
 * XGBoost Hyperparameter Tuning: [hyperparameter-tuning-in-xgboost](https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f)
 * PCA:

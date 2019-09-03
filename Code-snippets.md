@@ -4,6 +4,19 @@
 * 6d plot
 * Tsne
 * elbow method
+´´´ python
+from sklearn.cluster import KMeans
+from pandas import DataFrame
+
+data_cluster =  data[['classification', 'hemoglobin']]
+n_cluster = range(1, 6)
+
+kmeans = [KMeans(n_clusters=i).fit(data_cluster) for i in n_cluster]
+scores = [kmeans[i].score(data_cluster) for i in range(len(kmeans))]
+
+scores_df = DataFrame(scores)
+scores_df.iplot(kind="scatter", theme="white")
+´´´
 * Legend: 
 ``` python
 # Legend and title

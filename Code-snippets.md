@@ -5,7 +5,7 @@
 * Tsne
 * elbow method
 * Scatter plot with min max of certain days: 
-''' python
+``` python
 accidents = df.groupby(df['date'].dt.date).count().date
 
 accidents.plot(figsize=(13,8), color='blue')
@@ -23,4 +23,4 @@ plt.title('Accidents in Barcelona in 2017', fontsize=20)
 plt.xlabel('Date',fontsize=16)
 plt.ylabel('Number of accidents per day',fontsize=16);
 plt.legend()
-'''
+```

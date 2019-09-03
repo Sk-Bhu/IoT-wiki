@@ -4,6 +4,11 @@
 * 6d plot
 * Tsne
 * elbow method
+* Legend: 
+``` python
+# Legend and title
+plt.legend(labels=['Mild Injuries', 'Serious Injuries'])
+```
 * Scatter plot with min max of certain days: 
 ``` python
 accidents = df.groupby(df['date'].dt.date).count().date

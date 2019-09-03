@@ -4,7 +4,7 @@
 * 6d plot
 * Tsne
 * elbow method
-´´´ python
+``` python
 from sklearn.cluster import KMeans
 from pandas import DataFrame
 
@@ -16,7 +16,7 @@ scores = [kmeans[i].score(data_cluster) for i in range(len(kmeans))]
 
 scores_df = DataFrame(scores)
 scores_df.iplot(kind="scatter", theme="white")
-´´´
+```
 * Legend: 
 ``` python
 # Legend and title

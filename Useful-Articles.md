@@ -1,4 +1,5 @@
 # Visualization
+* Multilple plots at once: [handy-data-visualization-functions-in-matplotlib-seaborn-to-speed-up-your-eda](https://medium.com/better-programming/handy-data-visualization-functions-in-matplotlib-seaborn-to-speed-up-your-eda-241ba0a9c47d)
 * colormaps:
 [how-to-use-colormaps-with-matplotlib-to-create-colorful-plots-in-python](https://medium.com/@liztersahakyan/how-to-use-colormaps-with-matplotlib-to-create-colorful-plots-in-python-969b5a892f0c?source=email-5b157852f2eb-1564283139843-digest.reader------2-59------------------636e19e0_d5fa_415b_a2e9_f60228bca68c-16&sectionName=recommended)
 * plotly introduction: 

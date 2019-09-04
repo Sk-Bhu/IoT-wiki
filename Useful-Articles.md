@@ -29,5 +29,6 @@
 
 # Mindset:
 * [GER] Überzeugungskraft : [5-gruende-warum-deine-argumentation-nicht-überzeugt](5 Gründe, warum deine Argumentation nicht überzeugt https://www.linkedin.com/pulse/5-gr%C3%BCnde-warum-deine-argumentation-nicht-%C3%BCberzeugt-stephanie-t%C3%B6njes)
+- Leadership: [how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before](https://medium.com/swlh/how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before-930696bb86c5)
 
 # Data sources:

@@ -1,4 +1,8 @@
 * PCA
+* count unique values
+``` python
+data.feature.value_count()
+```
 * Silhouette score
 * plotly plot
 * 6d plot

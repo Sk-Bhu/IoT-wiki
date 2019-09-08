@@ -6,4 +6,5 @@
 
 
 ## Useful Articels
-https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b
+* cohort-plot: https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b
+* Churn-KPI: https://shopifyengineering.myshopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post

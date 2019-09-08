@@ -1,1 +1,5 @@
-Welcome to the DS wiki!
+# Welcome to the DS wiki!
+
+* Articels
+* Snippets
+* Project Ideas

@@ -1,0 +1,1 @@
+https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b

@@ -21,6 +21,7 @@
   * [how-to-create-a-production-ready-recommender-system](https://towardsdatascience.com/how-to-create-a-production-ready-recommender-system-3c932752f8ea)
 * NLP: 
   * cleaning: [nlp-for-beginners-cleaning-preprocessing-text-data](https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f)
+  * cleaning + training: [getting-started-with-natural-language-processing-us-airline-sentiment-analysis](https://towardsdatascience.com/getting-started-with-natural-language-processing-us-airline-sentiment-analysis-24f9d8f7500d)
 
 
 # Feature engineering etc.

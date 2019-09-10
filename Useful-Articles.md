@@ -8,6 +8,8 @@
 * landmaps: 
   * [analysis-of-car-accidents-in-barcelona-using-pandas-matplotlib-and-folium](https://towardsdatascience.com/analysis-of-car-accidents-in-barcelona-using-pandas-matplotlib-and-folium-73384240106b)
   * [rocket-data-science](https://link.medium.com/WzjE7spiGZ)
+* Pairplots and Pairgrids: [visualizing-data-with-pair-plots-in-python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
+
 # Models
 * XGBoost Hyperparameter Tuning: [hyperparameter-tuning-in-xgboost](https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f)
 * PCA:

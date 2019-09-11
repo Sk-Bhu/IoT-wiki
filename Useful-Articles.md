@@ -26,6 +26,9 @@
   * cleaning + training: [getting-started-with-natural-language-processing-us-airline-sentiment-analysis](https://towardsdatascience.com/getting-started-with-natural-language-processing-us-airline-sentiment-analysis-24f9d8f7500d)
 
 
+# Clustering
+* Cluster analysis: [cluster-analysis-create-visualize-and-interpret-customer-segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)
+
 # Feature engineering etc.
 * Tips for feature engineering:
 [advanced-feature-engineering-and-preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)

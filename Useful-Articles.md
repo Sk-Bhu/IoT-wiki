@@ -39,4 +39,8 @@
 * Leadership: [how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before](https://medium.com/swlh/how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before-930696bb86c5)
 * [GER] Führungsentwicklung: [Die 5 Stufen der Führungsentwicklung](https://www.linkedin.com/pulse/die-5-stufen-der-f%C3%BChrungsentwicklung-thomas-armbruester)
 
+# Other:
+* OCR: [making-the-mueller-report-searchable-with-ocr-and-elasticsearch](https://towardsdatascience.com/making-the-mueller-report-searchable-with-ocr-and-elasticsearch-4e73e55de341)
+
+
 # Data sources:

@@ -25,6 +25,7 @@
   * cleaning: [nlp-for-beginners-cleaning-preprocessing-text-data](https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f)
   * cleaning + training: [getting-started-with-natural-language-processing-us-airline-sentiment-analysis](https://towardsdatascience.com/getting-started-with-natural-language-processing-us-airline-sentiment-analysis-24f9d8f7500d)
   * cleaning(more methodes): [text-preprocessing-in-python-steps-tools-and-examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
+  * model, detecting fake news: [i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models](https://towardsdatascience.com/i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models-da180338860e)
 
 # Clustering
 * Cluster analysis: [cluster-analysis-create-visualize-and-interpret-customer-segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)

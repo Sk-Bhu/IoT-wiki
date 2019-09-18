@@ -40,6 +40,10 @@
 * Leadership: [how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before](https://medium.com/swlh/how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before-930696bb86c5)
 * [GER] Führungsentwicklung: [Die 5 Stufen der Führungsentwicklung](https://www.linkedin.com/pulse/die-5-stufen-der-f%C3%BChrungsentwicklung-thomas-armbruester)
 
+# Churn:
+* cohort-plot: https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b
+* Churn-KPI: https://shopifyengineering.myshopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post
+
 # Other:
 * OCR: [making-the-mueller-report-searchable-with-ocr-and-elasticsearch](https://towardsdatascience.com/making-the-mueller-report-searchable-with-ocr-and-elasticsearch-4e73e55de341)
 * jupyter extensions: [4-awesome-tips-for-enhancing-jupyter-notebooks](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)

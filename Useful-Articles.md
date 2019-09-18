@@ -41,8 +41,8 @@
 * [GER] Führungsentwicklung: [Die 5 Stufen der Führungsentwicklung](https://www.linkedin.com/pulse/die-5-stufen-der-f%C3%BChrungsentwicklung-thomas-armbruester)
 
 # Churn:
-* cohort-plot: https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b
-* Churn-KPI: https://shopifyengineering.myshopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post
+* cohort-plot: [cohort-analysis-with-python](https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b)
+* Churn-KPI: [defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post](https://shopifyengineering.myshopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post)
 
 # Other:
 * OCR: [making-the-mueller-report-searchable-with-ocr-and-elasticsearch](https://towardsdatascience.com/making-the-mueller-report-searchable-with-ocr-and-elasticsearch-4e73e55de341)

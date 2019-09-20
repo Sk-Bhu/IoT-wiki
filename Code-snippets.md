@@ -46,7 +46,7 @@ plt.xlabel('Date',fontsize=16)
 plt.ylabel('Number of accidents per day',fontsize=16);
 plt.legend()
 ```
-# Workign with dates
+* Workign with dates
 ```
 series = data[data.columns[11]].dropna()
 series_dt = pd.to_datetime(pd.Series(series))

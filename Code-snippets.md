@@ -62,3 +62,17 @@ ts = pd.Timestamp(year = int(date['year'][1]),  month = int(date['month'][1]), d
 
 ts
 ```
+* XGBoostRegressor
+``` python
+from sklearn.metrics import mean_squared_error
+
+# Instantiate an XGBRegressor
+xgr = xgb.XGBRegressor(random_state=2)
+
+# Fit the classifier to the training set
+xgr.fit(X_train, y_train)
+
+y_pred = xgr.predict(X_test)
+
+mean_squared_error(y_test, y_pred)
+```

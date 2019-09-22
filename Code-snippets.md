@@ -62,7 +62,7 @@ ts = pd.Timestamp(year = int(date['year'][1]),  month = int(date['month'][1]), d
 
 ts
 ```
-* XGBoostRegressor
+* XGBoostRegressor + hyperparameter tuning
 ``` python
 from sklearn.metrics import mean_squared_error
 
@@ -76,8 +76,7 @@ y_pred = xgr.predict(X_test)
 
 mean_squared_error(y_test, y_pred)
 ```
-  * Hyperparameter tuning
-   ``` python
+``` python
 from sklearn.model_selection import GridSearchCV
 
 # Various hyper-parameters to tune
@@ -99,7 +98,7 @@ xgb_grid = GridSearchCV(xgb1,
                         verbose=True)
 
 xgb_grid.fit(X_train, y_train)
-   ```
+```
 
 * Train test split
 ``` python

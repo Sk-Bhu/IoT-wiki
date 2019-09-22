@@ -76,3 +76,7 @@ y_pred = xgr.predict(X_test)
 
 mean_squared_error(y_test, y_pred)
 ```
+* Train test split
+``` python
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 10)
+```

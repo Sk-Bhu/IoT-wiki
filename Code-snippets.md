@@ -76,6 +76,31 @@ y_pred = xgr.predict(X_test)
 
 mean_squared_error(y_test, y_pred)
 ```
+  * Hyperparameter tuning
+   ``` python
+from sklearn.model_selection import GridSearchCV
+
+# Various hyper-parameters to tune
+xgb1 = xgb.XGBRegressor()
+parameters = {'nthread':[4], 
+              'objective':['reg:linear'],
+              'learning_rate': [.03, 0.05, .07], 
+              'max_depth': [5, 6, 7],
+              'min_child_weight': [4],
+              'silent': [1],
+              'subsample': [0.7],
+              'colsample_bytree': [0.7],
+              'n_estimators': [250]}
+
+xgb_grid = GridSearchCV(xgb1,
+                        parameters,
+                        cv = 2,
+                        n_jobs = 5,
+                        verbose=True)
+
+xgb_grid.fit(X_train, y_train)
+   ```
+
 * Train test split
 ``` python
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 10)

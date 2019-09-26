@@ -109,3 +109,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 for feature, importance in zip(list(X.columns), xgr.feature_importances_):
     print('Model weight for feature {}: {}'.format(feature, importance))
 ```
+* Decode categorical string column to numbers
+``` python
+data.neighbourhood.astype('category').cat.codes
+```

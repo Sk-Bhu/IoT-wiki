@@ -1,4 +1,25 @@
 * PCA
+``` python
+import numpy as np
+import pandas as pd
+
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+
+# Standardize the data to have a mean of ~0 and a variance of 1
+X_std = StandardScaler().fit_transform(data.dropna())
+
+# Create a PCA instance: pca
+pca = PCA(n_components=26)
+principalComponents = pca.fit_transform(X_std)
+features = range(pca.n_components_)
+
+pca_df = pd.DataFrame(pca.explained_variance_ratio_)
+
+# Plot the explained variances
+pca_df.iplot(kind='bar',title='PCA - Kidney Desease')
+```
 * count unique values
 ``` python
 data.feature.value_count()

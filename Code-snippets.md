@@ -28,7 +28,7 @@ data.feature.value_count()
 * plotly plot
 * 6d plot
 * Tsne
-´´´ python
+``` python
 from sklearn.manifold import TSNE
 
 tsne = TSNE(n_components=2, verbose=0, perplexity=40, n_iter=300)
@@ -51,7 +51,7 @@ sns.scatterplot(
     legend="full",
     alpha=0.3
 )
-´´´
+```
 * elbow method
 ``` python
 from sklearn.cluster import KMeans

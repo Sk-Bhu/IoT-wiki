@@ -28,6 +28,30 @@ data.feature.value_count()
 * plotly plot
 * 6d plot
 * Tsne
+´´´ python
+from sklearn.manifold import TSNE
+
+tsne = TSNE(n_components=2, verbose=0, perplexity=40, n_iter=300)
+tsne_pca_results = tsne.fit_transform(principalComponents)
+
+df = pd.DataFrame()
+
+
+df['tsne-pca50-one'] = tsne_pca_results[:,0]
+df['tsne-pca50-two'] = tsne_pca_results[:,1]
+df['classification'] = data['classification']
+
+
+plt.figure(figsize=(16,4))
+sns.scatterplot(
+    x="tsne-pca50-one", y="tsne-pca50-two",
+    hue="classification",
+    palette=sns.color_palette("hls", 2),
+    data=df,
+    legend="full",
+    alpha=0.3
+)
+´´´
 * elbow method
 ``` python
 from sklearn.cluster import KMeans

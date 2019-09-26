@@ -10,6 +10,8 @@
   * [rocket-data-science](https://link.medium.com/WzjE7spiGZ)
 * Pairplots and Pairgrids: [visualizing-data-with-pair-plots-in-python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 
+
+
 # Models
 * XGBoost Hyperparameter Tuning: [hyperparameter-tuning-in-xgboost](https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f)
 * PCA:
@@ -27,25 +29,37 @@
   * cleaning(more methodes): [text-preprocessing-in-python-steps-tools-and-examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
   * model, detecting fake news: [i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models](https://towardsdatascience.com/i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models-da180338860e)
   * word2vec: [using-word2vec-to-analyze-news-headlines-and-predict-article-success](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
+
 # Clustering
 * Cluster analysis: [cluster-analysis-create-visualize-and-interpret-customer-segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)
+* interpret tsne: [misread-tsne](https://distill.pub/2016/misread-tsne/)
+
+
 
 # Feature engineering etc.
 * Tips for feature engineering:
 [advanced-feature-engineering-and-preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * Dimensionality reduction + cluster plots: [visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 
+
+
 # Mindset:
 * [GER] Überzeugungskraft : [5-gruende-warum-deine-argumentation-nicht-überzeugt](https://www.linkedin.com/pulse/5-gr%C3%BCnde-warum-deine-argumentation-nicht-%C3%BCberzeugt-stephanie-t%C3%B6njes)
 * Leadership: [how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before](https://medium.com/swlh/how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before-930696bb86c5)
 * [GER] Führungsentwicklung: [Die 5 Stufen der Führungsentwicklung](https://www.linkedin.com/pulse/die-5-stufen-der-f%C3%BChrungsentwicklung-thomas-armbruester)
 
+
+
 # Churn:
 * cohort-plot: [cohort-analysis-with-python](https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b)
 * Churn-KPI: [defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post](https://shopifyengineering.myshopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post)
 
+
+
 # Other:
 * OCR: [making-the-mueller-report-searchable-with-ocr-and-elasticsearch](https://towardsdatascience.com/making-the-mueller-report-searchable-with-ocr-and-elasticsearch-4e73e55de341)
 * jupyter extensions: [4-awesome-tips-for-enhancing-jupyter-notebooks](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)
+
+
 
 # Data sources:

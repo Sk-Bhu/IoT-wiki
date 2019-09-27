@@ -45,6 +45,7 @@
 * [GER] Überzeugungskraft : [5-gruende-warum-deine-argumentation-nicht-überzeugt](https://www.linkedin.com/pulse/5-gr%C3%BCnde-warum-deine-argumentation-nicht-%C3%BCberzeugt-stephanie-t%C3%B6njes)
 * Leadership: [how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before](https://medium.com/swlh/how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before-930696bb86c5)
 * [GER] Führungsentwicklung: [Die 5 Stufen der Führungsentwicklung](https://www.linkedin.com/pulse/die-5-stufen-der-f%C3%BChrungsentwicklung-thomas-armbruester)
+* leader treats: [7-traits-of-a-leader-worth-following](https://medium.com/personal-growth/7-traits-of-a-leader-worth-following-4bba018c1a80)
 
 
 

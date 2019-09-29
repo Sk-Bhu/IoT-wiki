@@ -158,3 +158,7 @@ for feature, importance in zip(list(X.columns), xgr.feature_importances_):
 ``` python
 data.neighbourhood.astype('category').cat.codes
 ```
+* Get columns by data type
+``` python
+data.dtypes[data.dtypes == ‘object’]
+```

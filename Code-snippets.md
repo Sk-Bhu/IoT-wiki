@@ -263,3 +263,14 @@ data.neighbourhood.astype('category').cat.codes
 ``` python
 data.dtypes[data.dtypes == ‘object’]
 ```
+* Labelencoder
+``` python
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+
+
+labelencoder_X_1 = LabelEncoder()
+X[:, 1] = labelencoder_X_1.fit_transform(X[:, 1])
+
+labelencoder_X_2 = LabelEncoder()
+X[:, 2] = labelencoder_X_2.fit_transform(X[:, 2])
+```

@@ -34,12 +34,12 @@
 
 
 
-# Feature engineering etc.
+# Feature engineering/ selection etc.
 * Tips for feature engineering:
 [advanced-feature-engineering-and-preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * Dimensionality reduction + cluster plots: [visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * PCA: [principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset](https://medium.com/@dmitriy.kavyazin/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2)
-
+* Different Feature selection algorithms: [feature-selection-with-pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
 
 # Mindset:
 * [GER] Überzeugungskraft : [5-gruende-warum-deine-argumentation-nicht-überzeugt](https://www.linkedin.com/pulse/5-gr%C3%BCnde-warum-deine-argumentation-nicht-%C3%BCberzeugt-stephanie-t%C3%B6njes)

@@ -20,13 +20,16 @@
 * Recommandation Systems: 
   * [the-remarkable-world-of-recommender-systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7)
   * [recommendation-systems-in-the-real-world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
-  * [how-to-create-a-production-ready-recommender-system](https://towardsdatascience.com/how-to-create-a-production-ready-recommender-system-3c932752f8ea)
+  * [how-to-create-a-production-ready-recommender-system](https://towardsdatascience.com/how-to-create-a-production-ready-recommender-system-3c932752f8ea
+  * [An Easy Introduction to Machine Learning Recommender Systems](https://link.medium.com/uxqKBn92C0)
 * NLP: 
   * cleaning: [nlp-for-beginners-cleaning-preprocessing-text-data](https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f)
   * cleaning + training: [getting-started-with-natural-language-processing-us-airline-sentiment-analysis](https://towardsdatascience.com/getting-started-with-natural-language-processing-us-airline-sentiment-analysis-24f9d8f7500d)
   * cleaning(more methodes): [text-preprocessing-in-python-steps-tools-and-examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
   * model, detecting fake news: [i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models](https://towardsdatascience.com/i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models-da180338860e)
   * word2vec: [using-word2vec-to-analyze-news-headlines-and-predict-article-success](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
+
+
 
 # Clustering
 * Cluster analysis: [cluster-analysis-create-visualize-and-interpret-customer-segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)

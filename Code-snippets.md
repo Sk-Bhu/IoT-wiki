@@ -313,7 +313,8 @@ test_data = graphlab.SFrame(test_data_df)
 # Train the model
 collab_filter_model = graphlab.item_similarity_recommender.create(train_data, 
                                                                   user_id='user_id', 
-                                                                  item_id='food_item',                                                                 target='rating', 
+                                                                  item_id='food_item',                                                                 
+                                                                  target='rating', 
                                                                   similarity_type='cosine')
                                                                   
 # Make recommendations

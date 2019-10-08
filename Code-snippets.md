@@ -296,7 +296,7 @@ y_pred = (y_pred > 0.5)
 
 cm = confusion_matrix(y_test, y_pred)
 ```
-* Simple recommender
+* Collaborative filtering recommender system
 ``` python
 import graphlab
 import pandas as pd

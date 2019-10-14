@@ -65,7 +65,7 @@
 * OCR: [making-the-mueller-report-searchable-with-ocr-and-elasticsearch](https://towardsdatascience.com/making-the-mueller-report-searchable-with-ocr-and-elasticsearch-4e73e55de341)
 * jupyter extensions: [4-awesome-tips-for-enhancing-jupyter-notebooks](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)
 * Types of averages: [on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
-
+* Lightweight streaming: [a-lightweight-machine-learning-architecture-for-iot-streams](https://towardsdatascience.com/a-lightweight-machine-learning-architecture-for-iot-streams-bd1bf81afa2)
 
 
 

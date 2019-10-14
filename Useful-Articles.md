@@ -51,7 +51,7 @@
 * [GER] Führungsentwicklung: [Die 5 Stufen der Führungsentwicklung](https://www.linkedin.com/pulse/die-5-stufen-der-f%C3%BChrungsentwicklung-thomas-armbruester)
 * leader traits: [7-traits-of-a-leader-worth-following](https://medium.com/personal-growth/7-traits-of-a-leader-worth-following-4bba018c1a80)
 * Snowflake syndrom and wrong mindset: [the-straightest-path-to-getting-what-you-want-without-being-selfish](https://medium.com/live-your-life-on-purpose/the-straightest-path-to-getting-what-you-want-without-being-selfish-88d4003fa69d)
-* Measuring i40 impact: [capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0](https://www.mckinsey.com/industries/advanced-electronics/our-insights/capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0
+* Measuring i40 impact: [capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0](https://www.mckinsey.com/industries/advanced-electronics/our-insights/capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0)
 
 
 

@@ -45,12 +45,14 @@
 * PCA: [principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset](https://medium.com/@dmitriy.kavyazin/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2)
 * Different Feature selection algorithms: [feature-selection-with-pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
 
-# Mindset:
+# Business:
 * [GER] Überzeugungskraft : [5-gruende-warum-deine-argumentation-nicht-überzeugt](https://www.linkedin.com/pulse/5-gr%C3%BCnde-warum-deine-argumentation-nicht-%C3%BCberzeugt-stephanie-t%C3%B6njes)
 * Leadership: [how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before](https://medium.com/swlh/how-to-be-a-leader-for-someone-who-hasnt-been-a-leader-before-930696bb86c5)
 * [GER] Führungsentwicklung: [Die 5 Stufen der Führungsentwicklung](https://www.linkedin.com/pulse/die-5-stufen-der-f%C3%BChrungsentwicklung-thomas-armbruester)
 * leader traits: [7-traits-of-a-leader-worth-following](https://medium.com/personal-growth/7-traits-of-a-leader-worth-following-4bba018c1a80)
 * Snowflake syndrom and wrong mindset: [the-straightest-path-to-getting-what-you-want-without-being-selfish](https://medium.com/live-your-life-on-purpose/the-straightest-path-to-getting-what-you-want-without-being-selfish-88d4003fa69d)
+* Measuring i40 impact: [capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0](https://www.mckinsey.com/industries/advanced-electronics/our-insights/capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0
+
 
 
 # Churn:

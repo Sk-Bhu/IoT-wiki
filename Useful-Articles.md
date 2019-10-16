@@ -30,8 +30,7 @@
   * model, detecting fake news: [i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models](https://towardsdatascience.com/i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models-da180338860e)
   * word2vec: [using-word2vec-to-analyze-news-headlines-and-predict-article-success](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
 * NN Loss function: [deep-learning-demystified/loss-functions-explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
-
-
+* pyTorch regression: [simple-regression-with-neural-networks-in-pytorch](https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-in-pytorch-313f06910379)
 
 # Clustering
 * Cluster analysis: [cluster-analysis-create-visualize-and-interpret-customer-segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)

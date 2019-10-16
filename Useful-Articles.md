@@ -29,6 +29,7 @@
   * cleaning(more methodes): [text-preprocessing-in-python-steps-tools-and-examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
   * model, detecting fake news: [i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models](https://towardsdatascience.com/i-built-a-fake-news-detector-using-natural-language-processing-and-classification-models-da180338860e)
   * word2vec: [using-word2vec-to-analyze-news-headlines-and-predict-article-success](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
+* NN Loss function: [deep-learning-demystified/loss-functions-explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
 
 
 

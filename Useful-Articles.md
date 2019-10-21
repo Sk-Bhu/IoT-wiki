@@ -13,6 +13,7 @@
 
 
 
+
 # Models
 * XGBoost Hyperparameter Tuning: [hyperparameter-tuning-in-xgboost](https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f)
 * XGBoost regressor: [machine-learning-project-predicting-boston-house-prices-with-regression](https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d)
@@ -31,6 +32,9 @@
   * word2vec: [using-word2vec-to-analyze-news-headlines-and-predict-article-success](https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751)
 * NN Loss function: [deep-learning-demystified/loss-functions-explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
 * pyTorch regression: [simple-regression-with-neural-networks-in-pytorch](https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-in-pytorch-313f06910379)
+* Very simple example of ridge and lasso: [Perform Lasso and Ridge Regression](https://link.medium.com/pS8nRdyyY0)
+
+
 
 # Clustering
 * Cluster analysis: [cluster-analysis-create-visualize-and-interpret-customer-segments](https://towardsdatascience.com/cluster-analysis-create-visualize-and-interpret-customer-segments-474e55d00ebb)

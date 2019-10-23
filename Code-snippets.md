@@ -353,4 +353,6 @@ item_recomendation = cotent_filter_model.recommend(users=which_user_ids,
 ```
 duplicate_rows_df = df[df.duplicated()]
 print(“number of duplicate rows: “, duplicate_rows_df.shape)
+
+df = df.drop_duplicates()
 ```

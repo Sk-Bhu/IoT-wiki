@@ -513,16 +513,8 @@ sns.boxplot(x=df['Cylinders'])
 Box Plot of Cylinders
 Q1 = df.quantile(0.25)
 Q3 = df.quantile(0.75)
-IQR = Q3 — Q1
-print(IQR)
-Year             9.0 
-HP             130.0 
-Cylinders        2.0 
-MPG-H            8.0 
-MPG-C            6.0 
-Price        21327.5 
-dtype: float64
-Don’t worry about the above values because it’s not important to know each and every one of them because it's just important to know how to use this technique in order to remove the outliers.
+IQR = Q3 - Q1
+
 df = df[~((df < (Q1–1.5 * IQR)) |(df > (Q3 + 1.5 * IQR))).any(axis=1)]
 df.shape
 ```

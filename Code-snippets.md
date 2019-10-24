@@ -365,3 +365,7 @@ IQR = Q3 - Q1
 df = df[~((df < (Q1–1.5 * IQR)) |(df > (Q3 + 1.5 * IQR))).any(axis=1)]
 df.shape
 ```
+* Get nLargest values by feature
+``` python
+df.Make.value_counts().nlargest(40)
+```

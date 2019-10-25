@@ -10,7 +10,7 @@
   * [rocket-data-science](https://link.medium.com/WzjE7spiGZ)
 * Pairplots and Pairgrids: [visualizing-data-with-pair-plots-in-python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 * Plotting w/ seaborn & matplotlib: [10-tips-to-improve-your-plotting](https://towardsdatascience.com/10-tips-to-improve-your-plotting-f346fa468d18)
-* Some intereating seaborn plots: [data-visualisation-using-seaborn](https://medium.com/@mukul.mschauhan/data-visualisation-using-seaborn-464b7c0e5122)
+* Some interesting seaborn plots: [data-visualisation-using-seaborn](https://medium.com/@mukul.mschauhan/data-visualisation-using-seaborn-464b7c0e5122)
 
 
 

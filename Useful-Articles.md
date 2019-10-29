@@ -64,6 +64,10 @@
 * Churn-KPI: [defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post](https://shopifyengineering.myshopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post)
 
 
+# Productivity:
+* Simplest: [the-most-underrated-productivity-technique-is-also-the-simplest](https://forge.medium.com/the-most-underrated-productivity-technique-is-also-the-simplest-82b6b8d2891f)
+
+
 
 # Other:
 * OCR: [making-the-mueller-report-searchable-with-ocr-and-elasticsearch](https://towardsdatascience.com/making-the-mueller-report-searchable-with-ocr-and-elasticsearch-4e73e55de341)

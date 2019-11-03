@@ -14,6 +14,10 @@
 
 
 
+
+
+
+
 # Models
 * XGBoost Hyperparameter Tuning: [hyperparameter-tuning-in-xgboost](https://blog.cambridgespark.com/hyperparameter-tuning-in-xgboost-4ff9100a3b2f)
 * XGBoost regressor: [machine-learning-project-predicting-boston-house-prices-with-regression](https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d)
@@ -33,6 +37,11 @@
 * NN Loss function: [deep-learning-demystified/loss-functions-explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
 * pyTorch regression: [simple-regression-with-neural-networks-in-pytorch](https://medium.com/@benjamin.phillips22/simple-regression-with-neural-networks-in-pytorch-313f06910379)
 * Very simple example of ridge and lasso: [Perform Lasso and Ridge Regression](https://link.medium.com/pS8nRdyyY0)
+* Detect objects and train on other objects:
+  * [Detecting](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
+  * [Training](https://medium.com/deepquestai/train-object-detection-ai-with-6-lines-of-code-6d087063f6ff)
+
+
 
 
 
@@ -42,12 +51,20 @@
 
 
 
+
+
+
 # Feature engineering/ selection etc.
 * Tips for feature engineering:
 [advanced-feature-engineering-and-preprocessing](https://towardsdatascience.com/4-tips-for-advanced-feature-engineering-and-preprocessing-ec11575c09ea)
 * Dimensionality reduction + cluster plots: [visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * PCA: [principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset](https://medium.com/@dmitriy.kavyazin/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2)
 * Different Feature selection algorithms: [feature-selection-with-pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
+
+
+
+
+
 
 # Business:
 * [GER] Überzeugungskraft : [5-gruende-warum-deine-argumentation-nicht-überzeugt](https://www.linkedin.com/pulse/5-gr%C3%BCnde-warum-deine-argumentation-nicht-%C3%BCberzeugt-stephanie-t%C3%B6njes)
@@ -59,13 +76,24 @@
 * Motivate People: [the-art-of-delegating-great-people](https://marker.medium.com/the-art-of-delegating-great-people-55cf1b4b752f)
 
 
+
+
+
+
 # Churn:
 * cohort-plot: [cohort-analysis-with-python](https://medium.com/better-programming/cohort-analysis-with-python-e81d9d740a9b)
 * Churn-KPI: [defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post](https://shopifyengineering.myshopify.com/blogs/engineering/defining-churn-rate-no-really-this-actually-requires-an-entire-blog-post)
 
 
+
+
+
+
 # Productivity:
 * Simplest: [the-most-underrated-productivity-technique-is-also-the-simplest](https://forge.medium.com/the-most-underrated-productivity-technique-is-also-the-simplest-82b6b8d2891f)
+
+
+
 
 
 
@@ -75,10 +103,3 @@
 * Types of averages: [on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 * Lightweight streaming: [a-lightweight-machine-learning-architecture-for-iot-streams](https://towardsdatascience.com/a-lightweight-machine-learning-architecture-for-iot-streams-bd1bf81afa2)
 * Tips when designing dashboards: [tips-on-designing-a-dashboard-worth-millions-of-dollars](https://medium.com/better-programming/tips-on-designing-a-dashboard-worth-millions-of-dollars-21b1f992dee2)
-
-
-
-
-
-
-# Data sources:

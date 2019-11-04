@@ -60,7 +60,7 @@
 * Dimensionality reduction + cluster plots: [visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * PCA: [principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset](https://medium.com/@dmitriy.kavyazin/principal-component-analysis-and-k-means-clustering-to-visualize-a-high-dimensional-dataset-577b2a7a5fe2)
 * Different Feature selection algorithms: [feature-selection-with-pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
-* Bow to parse features so that algos can best make use of them: [feature-engineering-for-machine-learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
+* How to parse features so that algos can best make use of them: [feature-engineering-for-machine-learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 
 
 

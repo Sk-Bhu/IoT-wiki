@@ -103,8 +103,7 @@
 * Types of averages: [on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis](https://towardsdatascience.com/on-average-youre-using-the-wrong-average-geometric-harmonic-means-in-data-analysis-2a703e21ea0)
 * Lightweight streaming: [a-lightweight-machine-learning-architecture-for-iot-streams](https://towardsdatascience.com/a-lightweight-machine-learning-architecture-for-iot-streams-bd1bf81afa2)
 * Tips when designing dashboards: [tips-on-designing-a-dashboard-worth-millions-of-dollars](https://medium.com/better-programming/tips-on-designing-a-dashboard-worth-millions-of-dollars-21b1f992dee2)
-* Measuring i40 impact: [capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0]
-(https://www.mckinsey.com/industries/advanced-electronics/our-insights/capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0)
+* Measuring i40 impact: [capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0](https://www.mckinsey.com/industries/advanced-electronics/our-insights/capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0)
 
 
 

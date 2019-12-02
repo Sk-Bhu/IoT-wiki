@@ -105,7 +105,7 @@
 * Tips when designing dashboards: [tips-on-designing-a-dashboard-worth-millions-of-dollars](https://medium.com/better-programming/tips-on-designing-a-dashboard-worth-millions-of-dollars-21b1f992dee2)
 * Measuring i40 impact: [capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0](https://www.mckinsey.com/industries/advanced-electronics/our-insights/capturing-value-at-scale-in-discrete-manufacturing-with-industry-4-0)
 * word2vec in databases: [powering-sql-with-machine-learning-capabilities](https://towardsdatascience.com/powering-sql-with-machine-learning-capabilities-24eba7d0914c)
-
+* Distances: [different-types-of-distances-used-in-machine-learning](https://medium.com/@purbita1998/different-types-of-distances-used-in-machine-learning-2a4423335ed2)
 
 
 

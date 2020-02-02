@@ -91,7 +91,7 @@
 
 # Productivity:
 * Simplest: [the-most-underrated-productivity-technique-is-also-the-simplest](https://forge.medium.com/the-most-underrated-productivity-technique-is-also-the-simplest-82b6b8d2891f)
-
+* Amazon approach: [amazon-uses-a-secret-process-for-launching-new-ideas-and-it-will-transform-the-way-you-work](https://medium.com/inc./amazon-uses-a-secret-process-for-launching-new-ideas-and-it-will-transform-the-way-you-work-aec5c9121ae)
 
 
 
